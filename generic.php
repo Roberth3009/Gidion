@@ -14,10 +14,10 @@ require_once 'conexion.php';
 	</head>
 	<body class="is-preload">
 
-		<!-- Wrapper -->
+		<!-- parte donde va el logo o palabras de delicious -->
 			<div id="wrapper">
 
-				<!-- Header -->
+				<!-- cabezera -->
 					<header id="header">
 						<a href="index.php" class="logo"><strong>GASTRONOMIA MASCHA</strong> <span>||EAT DELICIOUS||</span></a>
 						<nav>
@@ -41,7 +41,7 @@ require_once 'conexion.php';
 				<!-- Main -->
 					<div id="main" class="alt">
 
-						<!-- One -->
+						<!-- la parte de latacunga -->
 							<section id="one">
 								<div class="inner">
 									<header class="major">
@@ -86,7 +86,7 @@ require_once 'conexion.php';
 
 					</div>
 
-				<!-- Contact -->
+				<!-- Contactos y la coneccion a la BBD -->
 					<section id="contact">
 						<div class="inner">
 							<section>
@@ -128,7 +128,7 @@ require_once 'conexion.php';
 						</div>
 					</section>
 
-				<!-- Footer -->
+				<!-- parte donde estan los iconos de las redes sociales olgerrrrr -->
 					<footer id="footer">
 						<div class="inner">
 							<ul class="icons">
