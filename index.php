@@ -15,10 +15,10 @@ require_once 'conexion.php';
 	</head>
 	<body class="is-preload">
 
-		<!-- Wrapper -->
+		<!-- va los mimso que en las otras xd -->
 			<div id="wrapper">
 
-				<!-- Header -->
+				<!-- parte de logo o palabras -->
 					<header id="header" class="alt">
 						<a href="index.php" class="logo"><strong>GASTRONOMIA MASCHA</strong> <span>||EAT DELICIOUS|| </span></a>
 						<nav>
@@ -28,7 +28,7 @@ require_once 'conexion.php';
 						
 					</header>
 
-				<!-- Menu -->
+				<!-- el Menu -->
 					<nav id="menu">
 						<ul class="links">
 							<li><a href="index.php">INICIO</a></li>
@@ -43,7 +43,7 @@ require_once 'conexion.php';
 						</ul>
 					</nav>
 
-				<!-- Banner -->
+				<!-- pagina inicial osea el index  -->
 					<section id="banner" class="major">
 						<div class="inner">
 							<span class="image">
@@ -79,10 +79,10 @@ require_once 'conexion.php';
 						</div>
 					</section>
 
-				<!-- Main -->
+				<!-- Main donde van a ir i,magenes con un efecoto al rato de pasar el mouse por encima de ellas -->
 					<div id="main">
 
-						<!-- One -->
+						<!-- comienza desde aui la imagenes brow -->
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
@@ -140,7 +140,7 @@ require_once 'conexion.php';
 								</article>
 							</section>
 
-						<!-- Two -->
+						<!-- parte donde hay un boton que nos va a dirigir a la pestana donde esta la hgistoria de la ciudad brow -->
 							<section id="two">
 								<div class="inner">
 									<header class="major">
@@ -161,7 +161,7 @@ require_once 'conexion.php';
 
 					</div>
 
-				<!-- Contact -->
+				<!-- Contactos echo el registro de la base de datos -->
 					<section id="contact">
 						<div class="inner">
 							<section>
@@ -218,7 +218,7 @@ require_once 'conexion.php';
 						</div>
 					</section>
 
-				<!-- Footer -->
+				<!-- los iconos de las redes sociales donde estan la de olgerrr xd -->
 					<footer id="footer">
 						<div class="inner">
 							<ul class="icons">
