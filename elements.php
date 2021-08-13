@@ -14,10 +14,10 @@ require_once 'conexion.php';
 	</head>
 	<body class="is-preload">
 
-		<!-- Wrapper -->
+		<!-- El logo de delicious -->
 			<div id="wrapper">
 
-				<!-- Header -->
+				<!-- cabezera -->
 					<header id="header">
 						<a href="index.php" class="logo"><strong>GASTRONOMIA MASCHA</strong> <span>||EAT DELICIOUS||</span></a>
 						<nav>
@@ -25,7 +25,7 @@ require_once 'conexion.php';
 						</nav>
 					</header>
 
-				<!-- Menu -->
+				<!--  El Menu -->
 					<nav id="menu">
 						<ul class="links">
 							<li><a href="index.php">INICIO</a></li>
@@ -42,14 +42,14 @@ require_once 'conexion.php';
 				<!-- Main -->
 					<div id="main" class="alt">
 
-						<!-- One -->
+						<!-- los paltos de los cantones -->
 							<section id="one">
 								<div class="inner">
 									<header class="major">
 										<h1>PLATOS DE LOS CANTONES</h1>
 									</header>
 
-									<!-- Content -->
+									<!-- Contenedores donde estan los diferetes cantones siuuuuuuuuu -->
 									<h1>CANTONES</h1>
 										<p>Se usa para nombrar a pequeñas unidades territoriales o 
 											divisiones administrativas, en que se dividen un país.
@@ -73,7 +73,7 @@ require_once 'conexion.php';
 													  colorido, la naturaleza misma le ha concedido estas
 													 hermosas pinceladas caprichosamente talladas donde predominan los páramos.</p>
 											</div>
-											<!-- Break -->
+											<!-- mas cantones -->
 											<div class="col-4 col-12-medium">
 												<h3>SAQUISILI</h3>
 												<p>Ubicado al Noroeste de Latacunga, es una ciudad tranquila y acogedora rodeada 
@@ -113,7 +113,7 @@ require_once 'conexion.php';
 
 												
 
-												<!-- Lists -->
+												<!-- separamiento -->
 
 												<div class="row">
 														<div class="col-6 col-12-small">
@@ -127,7 +127,7 @@ require_once 'conexion.php';
 												
 											
 
-												<!-- Buttons -->
+												<!-- los botones de la imagenes a descargar -->
 													<h3>Click para buscar y descargase fotos</h3>
 													
 													<ul class="actions">
@@ -136,10 +136,10 @@ require_once 'conexion.php';
 													</ul>
 													
 
-												<!-- Form -->
+												
 													
 
-												<!-- Image -->
+												<!-- Imagenes de todos los platos de los cantones xd -->
 													<h3>Imágenes </h3>
 
 													<h4>PLATOS DE LOS CANTONES</h4>
@@ -161,7 +161,7 @@ require_once 'conexion.php';
 													</div>
 
 												
-												<!-- Box -->
+												<!-- la caja donde va el agradecimeto a las personas que visiten la web -->
 													<h3>Agradecimiento</h3>
 													<div class="box">
 														<p>El agradecimiento, en ocasiones, no puede expresarse en palabras por lo inmenso que es.
@@ -169,7 +169,7 @@ require_once 'conexion.php';
 														</p>
 													</div>
 
-												<!-- Preformatted Code -->
+												
 													
 
 
@@ -184,7 +184,7 @@ require_once 'conexion.php';
 
 					</div>
 
-				<!-- Contact -->
+				<!-- Contacto conecion a la BBD -->
 					<section id="contact">
 						<div class="inner">
 							<section>
@@ -227,7 +227,7 @@ require_once 'conexion.php';
 						</div>
 					</section>
 
-				<!-- Footer -->
+				<!-- los iconos de las redes sociales olgerrrrrrrrrrrrrrrrr -->
 					<footer id="footer">
 						<div class="inner">
 							<ul class="icons">
